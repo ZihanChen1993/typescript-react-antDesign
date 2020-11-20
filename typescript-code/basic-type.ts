@@ -40,8 +40,3 @@ function test() {
 let user: [string, number] = ['czh', 123];
 // user = ['molly', '123']; 报错
 // user = ['molly', 2, true]; 报错
-
-
-
-
-
