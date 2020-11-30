@@ -82,6 +82,7 @@ function plus(a: number, b: number): number {
 function connect(a: string, b: string): string {
   return a + b;
 }
+
 const a: IPlus<number> = plus
 const b: IPlus<string> = connect;
 
